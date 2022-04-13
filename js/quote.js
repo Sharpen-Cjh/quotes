@@ -21,7 +21,12 @@ quote:"당신이 하기를 원하고 하려는 의지가 있고 오랜 시간 �
                         ,author:"-이대명-",},
                         {
                             quote:"굴복해라 평생 으롸!"
-                            ,author:"-프레스코- ",}];
+                            ,author:"-프레스코- ",},
+                {quote:"또계태엽 똘연변이"
+                                ,author:"-김강현- ",},
+                                {
+                                    quote:"우리발 느그키"
+                                    ,author:"-최지원- ",}];
 
  const quote = document.querySelector("#quote span:first-child");
  const author = document.querySelector("#quote span:last-child");
